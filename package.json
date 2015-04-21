@@ -1,0 +1,11 @@
+{
+  "name": "simple-writer",
+  "version": "0.0.1",
+  "description": "Simple page writer utility",
+  "main": "simple-writer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Szymanski <mark@blueye.com>",
+  "license": "MIT"
+}
